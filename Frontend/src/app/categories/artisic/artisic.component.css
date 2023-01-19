@@ -1,48 +1,4 @@
-/* body {
-    background: #eee;
-  }
-  
-  .ratings i {
-    font-size: 16px;
-    color: rgb(246, 236, 236);
-  }
-  
-  .strike-text {
-    color: rgb(208, 191, 191);
-    text-decoration: line-through;
-  }
-  
-  .product-image {
-    width: 100%;
-  }
-  
-  .dot {
-    height: 7px;
-    width: 7px;
-    margin-left: 6px;
-    margin-right: 6px;
-    margin-top: 3px;
-    background-color: blue;
-    border-radius: 50%;
-    display: inline-block;
-  }
-  
-  .spec-1 {
-    color: #040303;
-    font-size: 15px;
-  }
-  
-  h5 {
-    font-weight: 400;
-  }
-  
-  .para {
-    font-size: 16px;
-  } */
-
-
-
-  .bg-image {
+ .bg-image {
     background-image: url(/img/background.jpg);
     background-repeat: no-repeat;
     background-size: cover;
